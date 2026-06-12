@@ -1,0 +1,20 @@
+{
+  "node": "N8nDevIp2proxy",
+  "nodeVersion": "1.0",
+  "codexVersion": "1.0",
+  "categories": [
+    "Development"
+  ],
+  "resources": {
+    "primaryDocumentation": [
+      {
+        "url": "https://github.com/n8n-code/n8n-nodes-ip2proxy"
+      }
+    ],
+    "credentialDocumentation": [
+      {
+        "url": "https://github.com/n8n-code/n8n-nodes-ip2proxy?tab=readme-ov-file#credentials"
+      }
+    ]
+  }
+}
