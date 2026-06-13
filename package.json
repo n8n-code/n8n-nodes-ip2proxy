@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-ip2proxy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "IP2Proxy detects proxies, VPNs, TOR, bots, data centers, residential proxies, and VPN providers by IP.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-ip2proxy",
